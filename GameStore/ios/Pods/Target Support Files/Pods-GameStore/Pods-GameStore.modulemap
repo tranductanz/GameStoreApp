@@ -1,0 +1,6 @@
+module Pods_GameStore {
+  umbrella header "Pods-GameStore-umbrella.h"
+
+  export *
+  module * { export * }
+}
